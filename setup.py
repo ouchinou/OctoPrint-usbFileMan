@@ -1,5 +1,3 @@
-# coding=utf-8
-
 ########################################################################################################################
 ### Do not forget to adjust the following variables to your own plugin.
 
@@ -14,20 +12,20 @@ plugin_package = "octoprint_usbfileman"
 plugin_name = "OctoPrint-usbFileMan"
 
 # The plugin's version. Can be overwritten within OctoPrint's internal data via __plugin_version__ in the plugin module
-plugin_version = "0.1.2"
+plugin_version = "0.1.3"
 
 # The plugin's description. Can be overwritten within OctoPrint's internal data via __plugin_description__ in the plugin
 # module
-plugin_description = """An OctoPrint plugin for managing files on USB drives, similar to watched folders."""
+plugin_description = """A secure OctoPrint plugin for managing files on USB drives with automatic copying and duplicate detection."""
 
 # The plugin's author. Can be overwritten within OctoPrint's internal data via __plugin_author__ in the plugin module
-plugin_author = "Joshua Wills"
+plugin_author = "ouchinou"
 
 # The plugin's author's mail address.
-plugin_author_email = "joshewills@gmail.com"
+plugin_author_email = "your-email@example.com"
 
 # The plugin's homepage URL. Can be overwritten within OctoPrint's internal data via __plugin_url__ in the plugin module
-plugin_url = "https://github.com/MakerGear/OctoPrint-usbFileMan"
+plugin_url = "https://github.com/ouchinou/OctoPrint-usbFileMan"
 
 # The plugin's license. Can be overwritten within OctoPrint's internal data via __plugin_license__ in the plugin module
 plugin_license = "AGPLv3"
